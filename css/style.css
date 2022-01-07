@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+	font-size: 12px;
+}
+
+body
+{
+	font-family: Arial;
+	font-size: 10px;
+}
+
+head
+{
+	font-family: Arial;
+	font-size: 12px;
+}
+
+textarea
+{
+	font-family: Arial;
+	font-size: 11px;
+}
+table
+{
+	border: none;
+	table-layout: auto;
+	border-collapse: separate;
+	border-spacing: 15px;
+}
+p
+{
+	font-size: 12px;
+}
+
+.accelerate
+{
+	font-family: Arial;
+	font-size: 14px;
+}
+
+tr
+{
+	font-size: 12px;
+	margin: auto;
+}
+td
+{
+	margin-right: 100px;
+}
+.books
+{
+	font-size: 15px;
+}
+.contact
+{
+	font-size: 15px;
+	font-weight: bold;
+	color: cadetblue;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	text-decoration:underline;
+}
+
+ol,ul
+{
+	padding:10px;
+	margin-bottom: 10px;
+}
+li
+{
+	margin:auto;
+	font-size:13px;
+}
